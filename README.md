@@ -3,3 +3,5 @@ From June 2024 to early 2025, I had the wonderful opportunity to work with the K
 ## Assembling the 
 iioo
 ## Assembling the 
+
+[Contribution guidelines for this project](/Example_Genome_Data/map_Female_large_contigs_to_O_aureus_ZZ.png)
