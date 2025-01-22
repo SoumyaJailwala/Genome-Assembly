@@ -5,3 +5,4 @@ iioo
 ## Assembling the 
 
 [Contribution guidelines for this project](/Example_Genome_Data/map_Female_large_contigs_to_O_aureus_ZZ.png)
+![map_Female_large_contigs_to_O_aureus_ZZ](https://github.com/user-attachments/assets/2a3422d2-d642-4f0d-832b-8504dfa15a0f)
