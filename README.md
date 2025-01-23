@@ -1,6 +1,8 @@
 # Cracking the Cichlid Code: A Genome Assembly Workflow
 From June 2024 to early 2025, I had the wonderful opportunity to work with the Kocher Biology Lab where they focus on evolutionary traits and patterns in cichlids (fish!). I worked under Professor Tom Kocher and my mentor Kristen Behrens as we wrapped up the lab's final projects. My main contribution was genome assembly, so I want to showcase the process and some of the scripts I was able to write to automate certain steps in the workflow. I used Bash to script and automate tasks within a Unix environment
 
+Feel free to take look at [some scripts I've written!](My_Scripts/)
+
 Let's walk through the process with an example genome -- we'll see if we can piece together the data from a female Rubricatochromis exsul -- here's what she might look like, by the way:
 
 <img src="https://www.fishbase.se/images/species/Heexs_f1.jpg" width="500">
@@ -20,7 +22,7 @@ Most cichlids have fusions that give them chromosomes, or linkage groups, number
 
 <img src="Example_Genome_Data/map_Female_large_contigs_to_O_aureus_ZZ.png" width="700">
 
-You can get a more interactive look as well with this [live viewer](https://github.com/SoumyaJailwala/Genome-Assembly/Example_Genome_Data/Female_large_contigs_O_aureus_ZZ_RE_F.html).
+You can get a more interactive look as well with this [live viewer](Example_Genome_Data/Female_large_contigs_O_aureus_ZZ_RE_F.html).
 
 Cool! We can see which linkage group each contig aligns to, and how well it aligns. 
 Let's take a closer look at 
