@@ -20,7 +20,7 @@ Most cichlids have fusions that give them chromosomes, or linkage groups, number
 
 <img src="Example_Genome_Data/map_Female_large_contigs_to_O_aureus_ZZ.png" width="700">
 
-You can get a more interactive look as well with this [live viewer](https://github.com/SoumyaJailwala/Genome-Assembly/Example_Genome_Data/).
+You can get a more interactive look as well with this [live viewer](https://github.com/SoumyaJailwala/Genome-Assembly/Example_Genome_Data/Female_large_contigs_O_aureus_ZZ_RE_F.html).
 
 Cool! We can see which linkage group each contig aligns to, and how well it aligns. 
 Let's take a closer look at 
