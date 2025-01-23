@@ -11,4 +11,4 @@ iioo
 [You can view more here:](/Example_Genome_Data/map_Female_large_contigs_to_O_aureus_ZZ.png)
 
 Reversing like so:
-https://github.com/SoumyaJailwala/Genome-Assembly/blob/e7824eae6cfe3b0424d10311284208712eba1733/My_Scripts/join_contigs.sh#L21C1-L21C80
+`seqkit seq -r -p -t DNA female_contig3.fasta -o female_contig3_reversed.fasta`
