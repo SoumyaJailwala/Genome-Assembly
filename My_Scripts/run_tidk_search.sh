@@ -1,4 +1,4 @@
-genome=../Rubricatochromis_exsul/RE_male_final/RE_male_genome_v1.fasta
+genome=../Rubricatochromis_exsul/RE_female_final/RE_female_genome_v1.fasta
 output_dir="../Rubricatochromis_exsul/RE_tidk"
 telomere_string="AACCCT"
 
