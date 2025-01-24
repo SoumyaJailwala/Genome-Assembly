@@ -81,7 +81,7 @@ Telomeres are repetive sequences at the end of chromosomes. We want to make sure
 
 https://github.com/SoumyaJailwala/Genome-Assembly/blob/09760c9b14682d6b152994f70e69392ef4c8ec2c/My_Scripts/run_tidk_search.sh#L1-L13
 
-Running tidk on our newly assembled female Rubricatochromis genome gives us plots like this for each linkage group we put together:
+Running tidk on our newly assembled female Rubricatochromis genome gives us plots like this for each linkage group we put together: (we'll just look at LG5)
 
 
 
