@@ -31,13 +31,18 @@ Cool! We can now see which linkage group each contig aligns to, and how well it 
 
 Let's take a closer look at LG5.
 
-<img src="Example_Genome_Data/LG5.png" width="700">
+<img src="Example_Genome_Data/LG5.png" width="400">
 
 It looks like we have both contig8 and contig9 aligning to this linkage group. There's a few steps we need to take before joining the two.
 
 First, if we look closer at contig9:
-<img src="Example_Genome_Data/contig9.png" width="700">
+
+<img src="Example_Genome_Data/map_female_contig9_to_O_aureus_ZZ.png" width="400">
+
 only part of it is aligning to LG5 and the other is aligning all the way to LG13. This means we'll have to split the contig:
+
+`
+`
 
 
 
