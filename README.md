@@ -7,7 +7,7 @@ Feel free to take look at [some scripts I've written!](My_Scripts/) I used Bash 
 ## A Walkthrough
 Let's walk through the process with an example genome. We'll see if we can piece together the data from a female Rubricatochromis exsul:
 
-<img src="https://fishbase.mnhn.fr/photos/ThumbnailsSummary.php?ID=62496" width="500">
+<img src="Example_Genome_Data/Heexs_f1.jpg" width="500">
 
 
 ## Step 1: Initial Assembly
